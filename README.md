@@ -17,11 +17,13 @@
 ### Descrição do trabalho
 
 Foi utilizado um Arduino Uno R3, mostrado na IMG
-<img src="arduino.jpeg" width="500" height="350" />
+<br>
+<img src="arduino.jpeg" width="400" height="350" />
 
 Também utilizou-se um shield feito para plugar o sensor
 
 NRF24l01-PA-LNA
-<img src="antena.jpeg" width="500" height="350" />
+<br>
+<img src="antena.jpeg" width="400" height="350" />
 
 
